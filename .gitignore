@@ -1,0 +1,10 @@
+# API-Schlüssel
+.env
+
+# Lokal erzeugter Index und eigene Dokumente
+faiss_index/
+data/*.pdf
+
+# Python und Jupyter
+__pycache__/
+.ipynb_checkpoints/
